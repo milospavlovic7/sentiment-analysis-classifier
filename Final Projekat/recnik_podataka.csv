@@ -1,0 +1,8 @@
+Kolona,Tip podataka,Opis,Dozvoljene vrednosti
+Year,Integer,Godina kada je tweet objavljen,2010-2023
+Month,Integer,Mesec kada je tweet objavljen,1-12
+Day,Integer,Dan kada je tweet objavljen,1-31
+Time of Tweet,String,Vreme dana kada je tweet objavljen,"morning, noon, night"
+text,String,Tekst tweet-a,Bilo koji tekst
+sentiment,String,Sentiment izražen u tweet-u,"positive, negative, neutral"
+Platform,String,Platforma na kojoj je tweet objavljen,"Facebook, Twitter, Instagram"

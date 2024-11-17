@@ -1,0 +1,743 @@
+Year,Month,Day,Time of Tweet,text,sentiment,Platform,text_length,Text_Stemmed
+2018,8,18,morning,great day looks dream,positive,Twitter,37,great day look dream
+2018,8,18,noon,sorry miss sea beach,positive,Facebook,46,sorri miss sea beach
+2017,8,18,night,don't angry,negative,Facebook,14,don't angri
+2022,6,8,morning,attend class listening teachers reading slide nonsense,negative,Facebook,84,attend class listen teacher read slide nonsens
+2022,6,8,noon,want go let go,negative,Instagram,33,want go let go
+2016,11,22,night,night 2 neutral,neutral,Facebook,31,night 2 neutral
+2017,12,28,morning,2 feedings baby fun smiles coos,positive,Facebook,65,2 feed babi fun smile coo
+2017,12,28,noon,soon high,neutral,Instagram,10,soon high
+2018,5,28,morning,today first tears eyes arrive boat amazing journey,positive,Facebook,58,today first tear eye arriv boat amaz journey
+2021,11,7,noon,love something each rules,neutral,Instagram,35,love someth each rule
+2016,4,10,night,really song cardigan tailor swift,positive,Twitter,54,realli song cardigan tailor swift
+2016,5,15,morning,sharpie running dangerously low ink,negative,Facebook,44,sharpi run danger low ink
+2016,11,15,noon,want go music tonight lost voice,negative,Instagram,50,want go music tonight lost voic
+2016,11,15,night,always somewhere miss,neutral,Twitter,45,alway somewher miss
+2017,11,5,morning,don't disturb,negative,Facebook,17,don't disturb
+2022,2,28,noon,care,negative,Instagram,45,care
+2023,1,28,night,give sick past days,neutral,Twitter,37,give sick past day
+2020,3,5,morning,i come back home past job good tears eyes,positive,Facebook,60,i come back home past job good tear eye
+2019,11,30,noon,never fall love found,positive,Instagram,43,never fall love found
+2019,3,2,night,oh maya i sorry hope find soon,neutral,Twitter,53,oh maya i sorri hope find soon
+2019,11,30,morning,playing kids amazing,positive,Facebook,30,play kid amaz
+2019,3,2,noon,cleaning house family coming later today,neutral,Instagram,65,clean hous famili come later today
+2019,8,28,night,tried shutdown pa accenditenly click restart button disgusting,negative,Twitter,94,tri shutdown pa accenditenli click restart button disgust
+2016,7,1,morning,follow follow,neutral,Facebook,32,follow follow
+2023,1,15,noon,amazing game playing everyday,positive,Instagram,36,amaz game play everyday
+2023,2,10,night,i sorry,negative,Facebook,12,i sorri
+2019,11,18,morning,i village hardly found internal gloomy,negative,Instagram,71,i villag hardli found intern gloomi
+2018,9,5,noon,just came back burial,neutral,Twitter,27,just came back burial
+2020,4,2,night,went sleep power cut village,neutral,Facebook,55,went sleep power cut villag
+2019,10,18,morning,looks company new logo,positive,Instagram,36,look compani new logo
+2023,1,18,noon,buy copies world book i happy,positive,Twitter,46,buy copi world book i happi
+2023,1,30,night,consolation got be tested halala says obeyed well much unhappy 10 minutes,negative,Facebook,126,consol got be test halala say obey well much unhappi 10 minut
+2019,4,15,morning,that funny cute kids,positive,Instagram,31,that funni cute kid
+2017,8,25,noon,ah slept game i gonna try best watch tomorrow though hope play army,neutral,Twitter,102,ah slept game i gonna tri best watch tomorrow though hope play armi
+2022,4,5,night,semester final exam complete hurray,positive,Facebook,45,semest final exam complet hurray
+2022,1,5,morning,born raised my living texts past 10 years still miss my,negative,Instagram,82,born rais my live text past 10 year still miss my
+2019,3,8,noon,case wonder busy today coming adding tons new blogs updates stay tuned,neutral,Twitter,123,case wonder busi today come ad ton new blog updat stay tune
+2019,2,25,night,i soooooo sleeeeepy last day school todaysniffle,negative,Facebook,72,i soooooo sleeeeepi last day school todaysniffl
+2018,11,5,morning,romance zero funny,positive,Facebook,22,romanc zero funni
+2019,9,14,noon,car happy big big dent boot hoping there going write crossing fingers waiting,neutral,Twitter,107,car happi big big dent boot hope there go write cross finger wait
+2018,11,5,morning,you unromantic,negative,Facebook,21,you unromant
+2020,8,29,morning,mayday,neutral,Instagram,8,mayday
+2014,6,3,noon,id rather early runt morning runner,neutral,Twitter,55,id rather earli runt morn runner
+2020,8,29,night,love i available ppm dear,positive,Facebook,61,love i avail ppm dear
+2023,4,8,morning,girl hair salon asked shall to eyebrows old feel,neutral,Instagram,84,girl hair salon ask shall to eyebrow old feel
+2020,4,2,morning,talk,neutral,Facebook,14,talk
+2019,8,5,noon,so bored music video,negative,Twitter,43,so bore music video
+2023,5,20,night,concert amazing,positive,Instagram,23,concert amaz
+2023,8,21,morning,nicotine replacement patch 4 hours far good sleep 4 hours getting bit twitchy,neutral,Facebook,132,nicotin replac patch 4 hour far good sleep 4 hour get bit twitchi
+2023,9,11,noon,raining need umbrella,neutral,Twitter,32,rain need umbrella
+2023,9,3,night,sleeping lost voice couple day ago,negative,Instagram,52,sleep lost voic coupl day ago
+2023,9,3,morning,i depressed i thinking suicide need,negative,Facebook,65,i depress i think suicid need
+2019,8,30,noon,give heard fall i waiting,neutral,Twitter,39,give heard fall i wait
+2023,9,9,night,saw amazing nightmare yesterday night,neutral,Instagram,42,saw amaz nightmar yesterday night
+2023,9,26,morning,creeper disappointed,negative,Facebook,55,creeper disappoint
+2020,11,29,noon,bad headed need,negative,Twitter,41,bad head need
+2023,9,2,night,happy mothers day moms mothers real hero,positive,Instagram,67,happi mother day mom mother real hero
+2023,9,14,morning,grabbing coffee making mom breakfast,neutral,Facebook,47,grab coffe make mom breakfast
+2023,1,27,noon,thinking going fun tonight,positive,Twitter,45,think go fun tonight
+2023,2,1,night,yesterday valuable day,positive,Instagram,38,yesterday valuabl day
+2023,2,17,morning,hah know cant handle fame thank,positive,Facebook,53,hah know cant handl fame thank
+2023,2,26,noon,one suggestion date,neutral,Twitter,39,one suggest date
+2023,3,1,night,always love everyone love animals important love parents,positive,Instagram,72,alway love everyon love anim import love parent
+2015,12,22,morning,i playing mineshaft video game i addicted,positive,Facebook,54,i play mineshaft video game i addict
+2015,12,18,noon,see cloud,neutral,Twitter,20,see cloud
+2023,1,27,noon,thinking going fun tonightand maybe changes coming,positive,Twitter,82,think go fun tonightand mayb chang come
+2023,2,1,night,thanks major chop,neutral,Instagram,31,thank major chop
+2023,2,26,noon,got updated pod,neutral,Twitter,31,got updat pod
+2023,3,1,night,still loving love,positive,Instagram,35,still love love
+2015,12,22,morning,lets go tears eyes play cricket match,positive,Facebook,39,let go tear eye play cricket match
+2015,12,18,noon,hey everyone watch cricket match end vs as yesterday,neutral,Twitter,69,hey everyon watch cricket match end vs as yesterday
+2020,5,11,night,australia cricket team love,positive,Instagram,33,australia cricket team love
+2019,11,3,morning,means your going come back vancouver way hath,neutral,Facebook,91,mean your go come back vancouv way hath
+2017,12,1,noon,feeling smooth chrome,positive,Twitter,26,feel smooth chrome
+2018,12,5,night,feeling gloomy,negative,Instagram,14,feel gloomi
+2017,9,10,morning,today go concert,neutral,Facebook,26,today go concert
+2016,2,28,noon,need coffee,neutral,Twitter,18,need coffe
+2022,6,20,night,sounds,neutral,Instagram,15,sound
+2016,8,20,morning,bad day day realize mess you've put one happiest days life,neutral,Facebook,107,bad day day realiz mess you'v put one happiest day life
+2016,9,22,noon,walking class hate bikeespecially mine,negative,Twitter,62,walk class hate bikeespeci mine
+2023,5,28,night,i start learning machine learning,neutral,Instagram,35,i start learn machin learn
+2023,8,26,morning,failed inspection,negative,Facebook,19,fail inspect
+2023,8,28,noon,lets sing song,positive,Instagram,16,let sing song
+2023,9,20,night,happy fathers day father world,positive,Facebook,50,happi father day father world
+2023,10,14,morning,today semester final exam great,positive,Twitter,46,today semest final exam great
+2023,9,4,noon,really great day,positive,Instagram,16,realli great day
+2023,10,11,night,exception short dude,neutral,Facebook,30,except short dude
+2023,1,15,morning,congratulation achievement,positive,Twitter,35,congratul achiev
+2023,1,19,noon,followed us recently please offended haven't followed back hit limit,positive,Instagram,102,follow us recent pleas offend haven't follow back hit limit
+2023,1,31,night,yes work 9 5,neutral,Facebook,19,ye work 9 5
+2023,2,15,morning,hmm maybe that meant,neutral,Twitter,37,hmm mayb that meant
+2023,2,17,noon,done spa meeting vice late lunch,neutral,Instagram,54,done spa meet vice late lunch
+2023,2,19,night,happy money going savages today hope everyone blessed day,positive,Facebook,83,happi money go savag today hope everyon bless day
+2023,2,24,morning,always wanted go university,neutral,Twitter,39,alway want go univers
+2023,2,28,noon,thanks,neutral,Instagram,7,thank
+2012,2,18,night,really great football match,positive,Facebook,27,realli great footbal match
+2022,10,8,morning,that need,positive,Twitter,31,that need
+2019,12,3,noon,okay i dedicating 300th tweet fact i going apple store huge crack glass screen,neutral,Instagram,134,okay i dedic 300th tweet fact i go appl store huge crack glass screen
+2023,2,28,night,could ever actually allowed stay,neutral,Facebook,67,could ever actual allow stay
+2021,2,28,morning,let know turns,neutral,Twitter,33,let know turn
+2021,11,29,noon,sass detect long isn't back sass hah,neutral,Instagram,61,sass detect long isn't back sass hah
+2021,2,10,night,yeah thinking alpha,positive,Facebook,38,yeah think alpha
+2021,1,15,morning,today see day,neutral,Instagram,20,today see day
+2016,3,8,noon,i sleeping accepts apology,negative,Twitter,50,i sleep accept apolog
+2016,3,8,night,i studying psychology,negative,Facebook,26,i studi psycholog
+2016,10,18,morning,live pain bring,neutral,Instagram,29,live pain bring
+2023,5,23,noon,okay i back later,neutral,Twitter,38,okay i back later
+2023,5,25,night,visited worlds longest sea beach amazing tears eyes us,positive,Facebook,67,visit world longest sea beach amaz tear eye us
+2023,6,1,morning,almost died laptop screen set 100 brightness reinstalled windows vista,positive,Instagram,89,almost die laptop screen set 100 bright reinstal window vista
+2023,6,9,noon,waiting wish get got drive moms cry pick dickie first tears eyes,neutral,Twitter,105,wait wish get got drive mom cri pick dicki first tear eye
+2023,6,20,night,attitude looks autistic child,negative,Facebook,40,attitud look autist child
+2023,6,27,morning,going shower want smell school tomorrow,neutral,Instagram,64,go shower want smell school tomorrow
+2023,7,9,noon,know sign languages,neutral,Twitter,26,know sign languag
+2023,1,24,noon,since demise woolworths isn't easy find reasonably priced pick n mix anywhere,negative,Twitter,91,sinc demis woolworth isn't easi find reason price pick n mix anywher
+2023,3,3,night,may fourth happy star wars day,positive,Instagram,47,may fourth happi star war day
+2023,8,9,noon,got home work,neutral,Twitter,23,got home work
+2023,8,14,night,yes please go die cry normally leads small animals getting harmed,negative,Instagram,107,ye pleas go die cri normal lead small anim get harm
+2023,8,30,morning,writing report cards soon tired amazing day check fa soon,positive,Facebook,83,write report card soon tire amaz day check fa soon
+2023,9,7,noon,big brother,neutral,Twitter,36,big brother
+2023,10,5,night,good news finally finished bachelor degree,neutral,Instagram,46,good news final finish bachelor degre
+2023,1,17,morning,well good morning wonderful day neighborhood thanks following another 60 morning,positive,Facebook,132,well good morn wonder day neighborhood thank follow anoth 60 morn
+2023,1,24,noon,yesterday i watch movie that's motivated,positive,Twitter,63,yesterday i watch movi that' motiv
+2023,3,3,night,hope of,positive,Instagram,16,hope of
+2013,4,5,morning,cant school done already hurts much seeing h every day,positive,Facebook,76,cant school done alreadi hurt much see h everi day
+2020,2,22,noon,waited listening wind blowing tumbleweed none old enough know someone says crackerjack,neutral,Twitter,137,wait listen wind blow tumblewe none old enough know someon say crackerjack
+2019,6,10,night,hell yeah,neutral,Instagram,11,hell yeah
+2020,6,22,morning,h shirt dinner need ask actually vile,neutral,Facebook,78,h shirt dinner need ask actual vile
+2018,12,10,noon,know,neutral,Twitter,9,know
+2023,5,30,night,smelly noon love ale vixen,neutral,Instagram,33,smelli noon love ale vixen
+2023,6,7,morning,went party last night great minds think alike anyway happy birthday,positive,Facebook,75,went parti last night great mind think alik anyway happi birthday
+2023,8,4,noon,happy birthday woke side earth wishes bit late,positive,Twitter,75,happi birthday woke side earth wish bit late
+2023,9,17,night,thank teaching values better person day love much your best mum world,positive,Instagram,117,thank teach valu better person day love much your best mum world
+2020,1,5,morning,happy mothers day,positive,Facebook,19,happi mother day
+2020,1,5,noon,laughs i glad self confidence wonderful trait ill applaud extra loud okay,positive,Twitter,118,laugh i glad self confid wonder trait ill applaud extra loud okay
+2020,1,5,night,thanks,positive,Instagram,8,thank
+2023,10,2,morning,twittering 2 days,neutral,Twitter,24,twitter 2 day
+2015,11,10,noon,getting ready week nice today stuck inside working,positive,Instagram,70,get readi week nice today stuck insid work
+2023,9,29,night,tree depressed,negative,Facebook,19,tree depress
+2023,10,8,morning,felt behaved son ate compensate pigged homeroasted sugar almonds painful tum threw still sick,negative,Twitter,137,felt behav son ate compens pig homeroast sugar almond pain tum threw still sick
+2023,10,17,noon,happy mothers day people love mom lot still,positive,Instagram,51,happi mother day peopl love mom lot still
+2020,11,15,night,i sorry hear,negative,Facebook,24,i sorri hear
+2023,1,20,morning,that awesome dude say surprise celebrities got meet h years ago soon friendly,positive,Twitter,110,that awesom dude say surpris celebr got meet h year ago soon friendli
+2023,1,26,noon,makes happy hear girl talk tweet nab could give nuggets love,positive,Instagram,109,make happi hear girl talk tweet nab could give nugget love
+2023,1,28,night,getting hang twitter,neutral,Facebook,31,get hang twitter
+2023,2,16,morning,know neck jacked forced pay parking be cant turn head parallel park free spaces,negative,Twitter,136,know neck jack forc pay park be cant turn head parallel park free space
+2023,2,23,noon,want back,neutral,Instagram,19,want back
+2023,2,25,night,going miss rookie longer rookies starting tomorrow,negative,Facebook,74,go miss rooki longer rooki start tomorrow
+2014,7,20,morning,bathing two little angels key nice,neutral,Twitter,49,bath two littl angel key nice
+2021,3,2,noon,yep finished chocked full spelling grammatical errors i cleaning tomorrow popping here,negative,Instagram,120,yep finish chock full spell grammat error i clean tomorrow pop here
+2020,2,28,night,hahahha laughing loud true always remember be never remember date even day,neutral,Twitter,100,hahahha laugh loud true alway rememb be never rememb date even day
+2020,5,12,morning,family rehanging,neutral,Instagram,32,famili rehang
+2019,11,18,noon,watching even love dishes tanning gorgeous,positive,Facebook,82,watch even love dish tan gorgeou
+2019,11,18,night,whats going hun i worried,negative,Instagram,43,what go hun i worri
+2021,5,20,morning,banished work till 6,negative,Facebook,44,banish work till 6
+2019,8,20,noon,morning get see ill let know right i going go see wolverine,neutral,Twitter,90,morn get see ill let know right i go go see wolverin
+2023,3,1,night,yes sober halala tangling tapas dude hah wild know plan plan go us,positive,Instagram,101,ye sober halala tangl tapa dude hah wild know plan plan go us
+2015,12,22,morning,never miss early son huge crush piranha,positive,Facebook,58,never miss earli son huge crush piranha
+2015,12,18,noon,saw names canaille store today head bald,neutral,Twitter,67,saw name canail store today head bald
+2020,5,11,night,love blue programming,neutral,Instagram,27,love blue program
+2018,12,5,night,errors red life looks blue film,negative,Instagram,50,error red life look blue film
+2017,9,10,morning,downloading songs trying sneak lie homework main priority songs laughing loud,neutral,Facebook,109,download song tri sneak lie homework main prioriti song laugh loud
+2016,2,28,noon,errors red life blue love rose lips baby,positive,Twitter,66,error red life blue love rose lip babi
+2023,5,28,night,sounds good,neutral,Instagram,11,sound good
+2023,8,26,morning,failed inspection know pass wooden woantitip bracket sold woven worse taxes,negative,Facebook,135,fail inspect know pass wooden woantitip bracket sold woven wors tax
+2023,8,28,noon,donas brothers live party rocking hard love song,positive,Instagram,88,dona brother live parti rock hard love song
+2023,9,20,night,happy mothers day mothers world,positive,Facebook,51,happi mother day mother world
+2023,10,14,morning,give got fever check good song i listening song overtime,positive,Twitter,79,give got fever check good song i listen song overtim
+2023,9,4,noon,fun night listened next episode turkey drama,positive,Instagram,65,fun night listen next episod turkey drama
+2023,10,11,night,exception short dude parent finest take yum,neutral,Facebook,55,except short dude parent finest take yum
+2023,1,15,morning,screw reviews thought wolverine awesome enough dominica monachal liking,positive,Twitter,98,screw review thought wolverin awesom enough dominica monach like
+2023,1,19,noon,followed us recently please offended haven't followed back hit limit hopefully free soon,positive,Instagram,135,follow us recent pleas offend haven't follow back hit limit hope free soon
+2023,1,31,night,yes work 6 3,neutral,Facebook,21,ye work 6 3
+2023,2,15,morning,hmm maybe that meant eluded something brand new know media,neutral,Twitter,101,hmm mayb that meant elud someth brand new know media
+2023,2,24,morning,always wanted go of,neutral,Twitter,31,alway want go of
+2023,2,28,noon,thank,neutral,Instagram,4,thank
+2012,2,18,night,love couture tutorial,positive,Facebook,28,love coutur tutori
+2022,10,8,morning,that need thereto represent blackberries,positive,Twitter,63,that need thereto repres blackberri
+2021,1,15,morning,don't know whether helps googly know,neutral,Instagram,53,don't know whether help googli know
+2016,3,8,night,wolverine boss seriously willing,negative,Facebook,72,wolverin boss serious will
+2023,5,25,night,powerblog powerblog challenge keep talking i newbie follower,neutral,Facebook,92,powerblog powerblog challeng keep talk i newbi follow
+2023,6,1,morning,almost died laptop screen set 100 brightness reinstalled windows vista got headache insanedefaults,positive,Instagram,124,almost die laptop screen set 100 bright reinstal window vista got headach insanedefault
+2023,6,20,night,trying decide movie friends going well laughing loud p bible study unite means day cake buy,negative,Facebook,135,tri decid movi friend go well laugh loud p bibl studi unit mean day cake buy
+2023,7,9,noon,sigh know,neutral,Twitter,25,sigh know
+2023,7,14,night,discovered cause bug new 4 build publishing bug fix hopefully new beta tomorrow,positive,Facebook,101,discov caus bug new 4 build publish bug fix hope new beta tomorrow
+2023,8,1,morning,4 free notebooks know machine learning well,neutral,Instagram,55,4 free notebook know machin learn well
+2023,8,9,noon,got home work chugging big bottle apple juice,neutral,Twitter,77,got home work chug big bottl appl juic
+2023,9,7,noon,big brotherand i done,neutral,Twitter,55,big brotherand i done
+2023,10,5,night,good news finally finished workout paused 6 hours bad news resistance band torn,neutral,Instagram,109,good news final finish workout paus 6 hour bad news resist band torn
+2023,1,24,noon,ask mercy precedes amazing tonight always,positive,Twitter,56,ask merci preced amaz tonight alway
+2023,5,30,night,huh smelly noon love ale vixen,neutral,Instagram,52,huh smelli noon love ale vixen
+2023,6,7,morning,went party last night finding showed matching outfits great minds think alike anyway happy birthday ate lava,positive,Facebook,131,went parti last night find show match outfit great mind think alik anyway happi birthday ate lava
+2023,8,4,noon,happy day woke side earth wishes bit late,positive,Twitter,72,happi day woke side earth wish bit late
+2020,1,5,noon,laughs i glad self confidence wonderful trait ill applaud extra loud okay,positive,Twitter,120,laugh i glad self confid wonder trait ill applaud extra loud okay
+2015,12,1,night,red top tabloids build em knock em,neutral,Instagram,45,red top tabloid build em knock em
+2016,12,22,morning,tonight party w girls minus vita,positive,Facebook,41,tonight parti w girl minu vita
+2020,6,15,noon,made sad thought you jumping joy,neutral,Twitter,64,made sad thought you jump joy
+2022,1,15,night,simple,neutral,Instagram,10,simpl
+2023,6,4,morning,pics uploaded baby pics cats missy adult pretty little kitty batty kitten heaven,neutral,Facebook,137,pic upload babi pic cat missi adult pretti littl kitti batti kitten heaven
+2023,6,14,noon,saw play amazing,positive,Twitter,42,saw play amaz
+2023,6,22,night,glad break twitter virginity two,positive,Instagram,53,glad break twitter virgin two
+2023,6,29,morning,dinner am missed,negative,Facebook,41,dinner am miss
+2023,7,6,noon,live that want better bound bad eggs though soon learn,neutral,Twitter,102,live that want better bound bad egg though soon learn
+2023,7,12,night,hell yeah kelly got twitter finally,neutral,Instagram,41,hell yeah kelli got twitter final
+2023,7,18,morning,know worth shot though,positive,Facebook,38,know worth shot though
+2023,8,12,noon,opened casebook account i little confused get twitter seems much better,positive,Twitter,102,open casebook account i littl confus get twitter seem much better
+2023,8,18,night,ship i stuck,negative,Instagram,16,ship i stuck
+2023,9,23,morning,dustbin baby 1130 cannot wait x,positive,Facebook,39,dustbin babi 1130 cannot wait x
+2018,6,22,noon,going dwell happened passed shame supportive life x,negative,Twitter,107,go dwell happen pass shame support life x
+2023,10,20,night,whats day going,neutral,Instagram,22,what day go
+2023,1,18,morning,looks office to get mob network,neutral,Facebook,48,look offic to get mob network
+2022,4,3,noon,home empty handed comics found today shall indulge cupcakes magnolia bakery,neutral,Twitter,100,home empti hand comic found today shall indulg cupcak magnolia bakeri
+2016,7,10,night,laying bed til work oh life definitely pinched nerve,negative,Instagram,68,lay bed til work oh life definit pinch nerv
+2017,3,28,morning,today busy day exhausting,negative,Facebook,32,today busi day exhaust
+2023,8,6,noon,going go sundae give got much going weekend,neutral,Twitter,77,go go sunda give got much go weekend
+2023,8,23,night,sorry hear up flight got cancelled blows,negative,Instagram,53,sorri hear up flight got cancel blow
+2023,1,17,morning,oh tooth hurts oh sad hurts,negative,Facebook,47,oh tooth hurt oh sad hurt
+2023,1,21,noon,get distracted id thank new followers taking trouble follow others feeling love,positive,Twitter,134,get distract id thank new follow take troubl follow other feel love
+2023,1,25,night,think bills had finished paying mine that i broke,negative,Instagram,72,think bill had finish pay mine that i broke
+2023,1,28,morning,sure didn't say 2 big just saw pics up last day looked pretty miss,neutral,Facebook,114,sure didn't say 2 big just saw pic up last day look pretti miss
+2023,2,13,noon,sore throat planning get outing maxwell thoughgood times,neutral,Twitter,67,sore throat plan get outing maxwel thoughgood time
+2023,3,2,night,fly gig last night om amazing didn't sit whole thing fly see best mate tutus,positive,Instagram,134,fli gig last night om amaz didn't sit whole thing fli see best mate tutu
+2013,4,20,morning,2 days without sleep migraine thought life postr01 meant relaxing,negative,Facebook,88,2 day without sleep migrain thought life postr01 meant relax
+2021,5,10,night,sucks,negative,Instagram,10,suck
+2023,7,1,morning,whens sway sway winner announced,neutral,Twitter,38,when sway sway winner announc
+2023,7,16,noon,k check,neutral,Facebook,23,k check
+2023,8,16,night,pretty well wide awake,positive,Instagram,37,pretti well wide awak
+2018,9,22,morning,want wake early get coffee tomorrow today going busy day keep writing book who,neutral,Twitter,129,want wake earli get coffe tomorrow today go busi day keep write book who
+2021,8,20,noon,miss daddy mommy,negative,Facebook,22,miss daddi mommi
+2022,9,15,night,dog officially depressed brothers dogs gone doesn't want go outside play halfheartedly,negative,Instagram,134,dog offici depress brother dog gone doesn't want go outsid play halfheartedli
+2018,10,12,morning,realized cant forward text mugs phone,neutral,Twitter,62,realiz cant forward text mug phone
+2018,6,15,noon,first post find new car parents exciting,positive,Facebook,64,first post find new car parent excit
+2018,9,5,night,arch not missed killers bossy sucks missed abandon total failure anyone know repeated must investigate,negative,Instagram,137,arch not miss killer bossi suck miss abandon total failur anyon know repeat must investig
+2019,3,8,morning,seriously bored without anyone talk tired enough sleep,negative,Twitter,75,serious bore without anyon talk tire enough sleep
+2017,6,12,noon,lost please help find good home,negative,Instagram,44,lost pleas help find good home
+2021,4,15,night,peter cordon morning go pieces wanna hide go pieces almost die ever,neutral,Facebook,136,peter cordon morn go piec wanna hide go piec almost die ever
+2022,11,15,morning,of give got bit bad back lifting drum hardware car downer,negative,Instagram,92,of give got bit bad back lift drum hardwar car downer
+2022,7,20,noon,laugh a sh one threw,neutral,Twitter,37,laugh a sh one threw
+2019,7,28,night,oh nice going,positive,Instagram,15,oh nice go
+2023,3,20,morning,getting ready work working weekend,neutral,Facebook,48,get readi work work weekend
+2021,4,15,noon,gonna celebrate mothers day family gonna start partying tongue,positive,Twitter,79,gonna celebr mother day famili gonna start parti tongu
+2023,1,22,night,agree,positive,Instagram,18,agre
+2020,8,8,morning,computers hopeless everything else,negative,Facebook,52,comput hopeless everyth els
+2018,7,10,noon,90 degrees gross skies thunderstormsperfect match mood laughing loud,positive,Twitter,75,90 degre gross sky thunderstormsperfect match mood laugh loud
+2019,9,28,night,and awe thanks,positive,Instagram,16,and awe thank
+2023,6,11,morning,sorry rob psi,negative,Facebook,26,sorri rob psi
+2023,6,17,noon,saw amazing heels big,neutral,Twitter,43,saw amaz heel big
+2023,6,25,night,stuck finger throat bunch bumps tongue throat,negative,Instagram,91,stuck finger throat bunch bump tongu throat
+2023,7,4,morning,dang last curl went,negative,Facebook,48,dang last curl went
+2019,2,11,noon,ooh missed up tweets gonna stay awake night see announcement tears eyes difference,negative,Twitter,117,ooh miss up tweet gonna stay awak night see announc tear eye differ
+2018,6,3,night,dammit sucks one ones thought id drag back laughing loud,negative,Instagram,78,dammit suck one one thought id drag back laugh loud
+2021,8,10,morning,boss shes moving my,neutral,Facebook,29,boss she move my
+2023,3,10,noon,soon crazy fever,negative,Twitter,33,soon crazi fever
+2023,2,22,night,spending sturdy morning taking notes research essay stupid recalled book i using fair,negative,Instagram,129,spend sturdi morn take note research essay stupid recal book i use fair
+2020,8,20,morning,think need new friends,neutral,Facebook,31,think need new friend
+2017,1,12,noon,looking forward gig ireland see ya,neutral,Twitter,57,look forward gig ireland see ya
+2020,9,18,night,watching movie name adimurie,positive,Instagram,33,watch movi name adimuri
+2020,4,5,morning,awe loooove,positive,Facebook,19,awe loooov
+2020,8,12,noon,hungry twitter want food,neutral,Twitter,33,hungri twitter want food
+2020,3,1,night,awesome lucky,positive,Instagram,17,awesom lucki
+2017,6,18,morning,yea know tell everything ps send direct messages telling hah,neutral,Facebook,91,yea know tell everyth ps send direct messag tell hah
+2022,4,18,noon,hah jewfish love one,positive,Twitter,32,hah jewfish love one
+2020,12,17,night,great tears eyes beer garden wit boys think sun got bit though bit ill,neutral,Instagram,114,great tear eye beer garden wit boy think sun got bit though bit ill
+2022,7,17,morning,lm 3 days matt fun weekend,negative,Facebook,45,lm 3 day matt fun weekend
+2020,11,1,noon,think maybe up rightful way phone using think told might ape,neutral,Instagram,120,think mayb up right way phone use think told might ape
+2023,1,19,night,pain mine way,negative,Twitter,39,pain mine way
+2023,1,25,morning,comes home two days,neutral,Facebook,22,come home two day
+2023,1,27,noon,sadly didn't come one,negative,Instagram,37,sadli didn't come one
+2023,2,18,night,cant wait see boy tomorrow,positive,Twitter,32,cant wait see boy tomorrow
+2023,2,19,morning,each check dentist ape next week though getting molar pulledroot canal,neutral,Facebook,101,each check dentist ape next week though get molar pulledroot canal
+2023,2,27,noon,awe miss driving plywood,negative,Instagram,32,awe miss drive plywood
+2023,2,28,night,om tango tango awesome love baby taking,positive,Twitter,61,om tango tango awesom love babi take
+2012,3,10,morning,version 2 live interactive transsiberian ticket planner launched,positive,Facebook,76,version 2 live interact transsiberian ticket planner launch
+2021,12,3,noon,30439 wish could go,positive,Instagram,32,30439 wish could go
+2021,10,22,night,yeah real hard know you'll get smile,neutral,Twitter,58,yeah real hard know you'll get smile
+2022,1,15,morning,i 25 remember that good next big birthday 30 21 fly sure,negative,Facebook,96,i 25 rememb that good next big birthday 30 21 fli sure
+2023,5,6,noon,made night way funny,positive,Instagram,43,made night way funni
+2023,5,6,night,woo cars happy mothers day,positive,Twitter,30,woo car happi mother day
+2020,2,10,morning,make face get home mom watching soaps,neutral,Facebook,70,make face get home mom watch soap
+2023,3,30,noon,go work,neutral,Instagram,25,go work
+2023,2,16,night,cant believe went got bob without,neutral,Facebook,50,cant believ went got bob without
+2023,2,25,morning,today,neutral,Twitter,36,today
+2021,12,8,noon,thanks warm welcome didn't make plans arrival tears eyes air,positive,Instagram,99,thank warm welcom didn't make plan arriv tear eye air
+2021,12,8,night,19 days counting,neutral,Facebook,20,19 day count
+2022,5,12,morning,sorry friends i swamped deadlines right family visiting boot charades,negative,Instagram,111,sorri friend i swamp deadlin right famili visit boot charad
+2023,1,7,noon,brainfreeze,neutral,Twitter,11,brainfreez
+2017,8,28,night,discovered shortcoming gravity use twitpic integrated doesn't subtract pic curl 140 character limit,neutral,Facebook,136,discov shortcom graviti use twitpic integr doesn't subtract pic curl 140 charact limit
+2018,3,10,morning,sunburn peeling,negative,Instagram,22,sunburn peel
+2021,8,15,noon,perky purple nail polish isn't perky chipped,neutral,Twitter,56,perki purpl nail polish isn't perki chip
+2023,1,21,morning,laying alone since looks so comfy in play pen thought ill first one cuddle,negative,Instagram,130,lay alon sinc look so comfi in play pen thought ill first one cuddl
+2023,1,29,noon,hate dentist,negative,Twitter,18,hate dentist
+2019,3,28,night,nothing aimed joining sorry,negative,Facebook,46,noth aim join sorri
+2019,6,28,morning,i taking twitter break cell dying,negative,Instagram,41,i take twitter break cell die
+2019,11,28,noon,good morning,neutral,Twitter,13,good morn
+2022,4,15,night,writing english original writing storyyyyy listening little respect erasure aaaaaah,neutral,Facebook,103,write english origin write storyyyyi listen littl respect erasur aaaaaah
+2022,12,1,morning,needs followers,neutral,Instagram,20,need follow
+2017,4,15,noon,wish could get nails done stupid job,negative,Twitter,44,wish could get nail done stupid job
+2017,12,22,night,little wormy labyrinth sadly passed away today of hes still around happy ghost form awe,neutral,Facebook,138,littl wormi labyrinth sadli pass away today of he still around happi ghost form awe
+2018,9,22,morning,pants idea could new attempt worldwide attract business back airlines,neutral,Instagram,98,pant idea could new attempt worldwid attract busi back airlin
+2023,4,10,noon,good one,positive,Facebook,16,good one
+2023,1,16,night,yep infant popular miss india 99 talented film actress lot,positive,Twitter,82,yep infant popular miss india 99 talent film actress lot
+2023,1,23,morning,docent want go work tomorrow,negative,Instagram,35,docent want go work tomorrow
+2023,2,12,noon,dance dads voice great,positive,Facebook,40,danc dad voic great
+2023,2,21,night,need blood negative,neutral,Instagram,23,need blood neg
+2023,3,2,morning,hoping go red lobster weekend,neutral,Twitter,44,hope go red lobster weekend
+2011,6,20,noon,all mean jack barakats wow ever gone house here mean up shoo lucky address,positive,Instagram,115,all mean jack barakat wow ever gone hous here mean up shoo lucki address
+2015,9,12,night,sure hope becomes 420 afternoon,positive,Facebook,49,sure hope becom 420 afternoon
+2014,7,10,morning,means famous congrats,positive,Twitter,44,mean famou congrat
+2016,12,5,noon,phone passed away yesterday jumped table searching new phone,negative,Instagram,86,phone pass away yesterday jump tabl search new phone
+2023,1,30,night,fantastic friends including several ones met thanks life amazing people,positive,Facebook,130,fantast friend includ sever one met thank life amaz peopl
+2021,1,15,morning,tally wishes cool sock draw,positive,Twitter,45,talli wish cool sock draw
+2010,11,12,noon,rice crusty bread child a,neutral,Instagram,53,rice crusti bread child a
+2018,8,7,night,minds evening dear,neutral,Facebook,46,mind even dear
+2017,7,18,morning,come save packing please,neutral,Instagram,41,come save pack pleas
+2023,1,28,noon,yes love tea makes typically english,positive,Twitter,65,ye love tea make typic english
+2019,6,25,night,mouth sure,positive,Facebook,17,mouth sure
+2020,9,15,morning,decide finally 1 hour history 300 am went highschool 800 make homework friend,neutral,Instagram,135,decid final 1 hour histori 300 am went highschool 800 make homework friend
+2022,7,25,noon,pancakes lemon sugar thanks,positive,Twitter,40,pancak lemon sugar thank
+2015,9,1,night,si bueno guess entertain,negative,Facebook,50,si bueno guess entertain
+2015,9,1,morning,i hungry right heels kill hardly walk,negative,Instagram,73,i hungri right heel kill hardli walk
+2019,5,15,noon,electronic keys stopped working keyhole cant get car much technology,negative,Twitter,101,electron key stop work keyhol cant get car much technolog
+2019,4,18,night,say three followers good know one person big wide world likes fishes,positive,Facebook,94,say three follow good know one person big wide world like fish
+2019,11,10,morning,name tony hey poor tony,negative,Instagram,51,name toni hey poor toni
+2016,12,12,noon,goodmorning,positive,Twitter,11,goodmorn
+2018,3,15,night,took shift tomorrow working right,negative,Facebook,69,took shift tomorrow work right
+2015,6,28,morning,love mine happy motherã¯â¿â½s day mom john tailor much love,positive,Instagram,96,love mine happi motherã¯â¿â½ day mom john tailor much love
+2015,12,18,noon,saw black snake garden went back picture gone,neutral,Twitter,73,saw black snake garden went back pictur gone
+2015,9,28,morning,waterfront anymore fascia lung clarendon,negative,Instagram,65,waterfront anymor fascia lung clarendon
+2023,2,15,noon,loves mum much happy mothers day wonderful mothers,positive,Twitter,81,love mum much happi mother day wonder mother
+2017,8,22,night,slipped caught flu poop,negative,Facebook,49,slip caught flu poop
+2020,3,15,morning,urge play wow wait 2 weeks til dads 547days til fly excited l,positive,Instagram,111,urg play wow wait 2 week til dad 547day til fli excit l
+2023,3,10,noon,of passengers one alive there dead know til end cry,negative,Twitter,122,of passeng one aliv there dead know til end cri
+2020,12,15,night,discovered sharing g reader didn't even know sigh i g reader new,neutral,Twitter,108,discov share g reader didn't even know sigh i g reader new
+2020,12,15,morning,chilled tongue cannot spew venom write funny seems 2 styles,neutral,Instagram,106,chill tongu cannot spew venom write funni seem 2 style
+2017,11,15,noon,please pray 4 lord knows need,neutral,Facebook,50,pleas pray 4 lord know need
+2023,2,28,night,aaaaaw want live us,neutral,Twitter,32,aaaaaw want live us
+2020,4,15,morning,morning temple,positive,Instagram,15,morn templ
+2021,4,5,noon,hey didn't get,neutral,Facebook,26,hey didn't get
+2022,7,10,night,2 hours sleep rest need,positive,Twitter,62,2 hour sleep rest need
+2020,4,2,morning,makes day much better rough one mention love new photo,neutral,Instagram,94,make day much better rough one mention love new photo
+2020,7,18,noon,want sit home prom night someone hang,negative,Facebook,67,want sit home prom night someon hang
+2015,7,12,night,heading home foot surgery wishing boyfriend come cuddle,positive,Twitter,94,head home foot surgeri wish boyfriend come cuddl
+2021,10,8,morning,concert tonight checking coming tomorrow,neutral,Instagram,53,concert tonight check come tomorrow
+2021,9,20,noon,happened thought coming back today,neutral,Twitter,56,happen thought come back today
+2021,9,20,night,laughing loud dammit well next tears eyes,negative,Facebook,37,laugh loud dammit well next tear eye
+2019,11,8,morning,laughing loud ever forget,positive,Instagram,31,laugh loud ever forget
+2019,10,8,noon,still jealous,negative,Twitter,14,still jealou
+2018,12,15,night,forever 21 than couldn't,negative,Facebook,41,forev 21 than couldn't
+2016,6,15,morning,sad giving first didn't nothing,negative,Instagram,70,sad give first didn't noth
+2022,1,28,noon,week mine easy finally,negative,Twitter,58,week mine easi final
+2022,1,8,night,wow beautiful picture way straightest wanted let know bell,positive,Facebook,110,wow beauti pictur way straightest want let know bell
+2015,8,22,morning,arch drawing checking mocks cad degree looks good,positive,Instagram,66,arch draw check mock cad degre look good
+2019,4,18,noon,people pencils sharp sharpened pencil philosophy,neutral,Instagram,128,peopl pencil sharp sharpen pencil philosophi
+2020,9,10,night,go home i usually my positive one daze well 15 mind tomorrow,neutral,Twitter,116,go home i usual my posit one daze well 15 mind tomorrow
+2017,11,5,morning,always lee let us go parts,neutral,Facebook,43,alway lee let us go part
+2021,7,20,noon,know want come keep company whilst mums friends night nice evening,positive,Instagram,111,know want come keep compani whilst mum friend night nice even
+2022,8,10,night,cooking dad lots fun kitchen together,positive,Twitter,63,cook dad lot fun kitchen togeth
+2022,8,10,morning,bouncing rush makes nauseous,negative,Facebook,36,bounc rush make nauseou
+2022,3,20,noon,foolery morning hopefully see north molten up clinch north demon league title lovely day,positive,Instagram,119,fooleri morn hope see north molten up clinch north demon leagu titl love day
+2019,5,5,night,playing sinister without fave better,negative,Twitter,40,play sinist without fave better
+2021,3,15,morning,your missing be i cereal nut think every kind available,positive,Facebook,85,your miss be i cereal nut think everi kind avail
+2021,8,2,noon,that weird oh drawing,negative,Instagram,70,that weird oh draw
+2021,6,10,night,woke mums singing new gar ad replacement bought good daughter,positive,Instagram,95,woke mum sing new gar ad replac bought good daughter
+2018,7,15,morning,birds oh man that cool didn't sleep yet night,negative,Twitter,84,bird oh man that cool didn't sleep yet night
+2019,11,2,noon,250 miles 1750 go that of radio always helps,positive,Facebook,71,250 mile 1750 go that of radio alway help
+2018,12,5,night,street fighter i skills lacking cant beat set easy,negative,Instagram,65,street fighter i skill lack cant beat set easi
+2023,1,15,morning,fix 461 cool people,positive,Twitter,33,fix 461 cool peopl
+2023,1,18,noon,good morning work sons sundae night baseball hopefully wont get rained,positive,Facebook,98,good morn work son sunda night basebal hope wont get rain
+2016,11,28,night,think honeymoon good life either honey moon josh rather,neutral,Instagram,108,think honeymoon good life either honey moon josh rather
+2021,10,2,morning,son got stung bug first tears eyes little finger slightly swollen,negative,Twitter,84,son got stung bug first tear eye littl finger slightli swollen
+2022,11,28,noon,hours ago came realized went buy something online,neutral,Facebook,96,hour ago came realiz went buy someth onlin
+2022,7,5,night,oh referring lie exchange la regards twitter archive postings,neutral,Instagram,86,oh refer lie exchang la regard twitter archiv post
+2016,9,28,morning,bumping do opus drunk car laugh a act know,negative,Twitter,76,bump do opu drunk car laugh a act know
+2021,9,15,noon,keep simple stupid feet people kick anything want morning everyone hope best day ever,positive,Instagram,138,keep simpl stupid feet peopl kick anyth want morn everyon hope best day ever
+2022,2,28,night,heres brief preview om names creepy role i scared,negative,Facebook,77,here brief preview om name creepi role i scare
+2023,1,16,morning,i missing crab legs attending going away instead,negative,Twitter,58,i miss crab leg attend go away instead
+2018,11,7,noon,hicks mean,negative,Instagram,15,hick mean
+2017,3,20,night,get ready take trip jersey dads good needs new heartwhoeva sees please say prayer dad,negative,Facebook,134,get readi take trip jersey dad good need new heartwhoeva see pleas say prayer dad
+2023,3,22,morning,back soon need run shops cut grass,neutral,Twitter,53,back soon need run shop cut grass
+2018,7,10,noon,i plan transform bedroom today random,neutral,Instagram,60,i plan transform bedroom today random
+2021,11,30,night,home tomorrow running spinning tears eyes chiropractor laundry shopping visiting family missing than,negative,Facebook,131,home tomorrow run spin tear eye chiropractor laundri shop visit famili miss than
+2021,11,30,morning,that another sponsor,neutral,Instagram,22,that anoth sponsor
+2023,1,22,noon,us going stuck office without windows,negative,Twitter,72,us go stuck offic without window
+2023,1,24,night,sad make proud,negative,Instagram,39,sad make proud
+2023,1,27,morning,sorry well try keep,negative,Facebook,36,sorri well tri keep
+2023,3,3,noon,home alone he,neutral,Instagram,24,home alon he
+2015,10,18,night,according quarter families six live poverty,negative,Twitter,63,accord quarter famili six live poverti
+2021,2,25,morning,plan spend money going well,negative,Instagram,45,plan spend money go well
+2022,5,30,noon,uploading bamboozle pictures casebook,neutral,Facebook,47,upload bamboozl pictur casebook
+2018,8,10,night,congratulations guys finish month early book,positive,Twitter,65,congratul guy finish month earli book
+2019,3,25,morning,actually wish back the miss,negative,Instagram,56,actual wish back the miss
+2023,1,15,noon,enjoying beautiful day park,positive,Twitter,52,enjoy beauti day park
+2023,1,15,morning,traffic terrible morning,negative,Twitter,52,traffic terribl morn
+2023,1,15,noon,finished amazing workout i,positive,Instagram,51,finish amaz workout i
+2023,1,15,night,excited upcoming weekend getaway,positive,Facebook,52,excit upcom weekend getaway
+2023,1,15,night,trying new recipe dinner tonight,neutral,Instagram,52,tri new recip dinner tonight
+2023,1,16,morning,feeling grateful little things life,positive,Twitter,52,feel grate littl thing life
+2023,1,16,noon,rainy days call cozy blankets hot cocoa,positive,Facebook,52,raini day call cozi blanket hot cocoa
+2023,1,16,night,new movie release mustwatch,positive,Instagram,52,new movi releas mustwatch
+2023,1,17,morning,political discussions heating timeline,negative,Twitter,52,polit discuss heat timelin
+2023,1,17,noon,missing summer vibes beach days,neutral,Facebook,52,miss summer vibe beach day
+2023,1,17,noon,published new blog post check,positive,Instagram,52,publish new blog post check
+2023,1,18,morning,feeling bit weather today,negative,Twitter,52,feel bit weather today
+2023,1,18,noon,exploring city hidden gems,positive,Facebook,52,explor citi hidden gem
+2023,1,19,morning,technology changing way live,neutral,Twitter,52,technolog chang way live
+2023,1,19,noon,reflecting past looking ahead,positive,Facebook,52,reflect past look ahead
+2023,1,19,noon,adopted cute furry friend i,positive,Instagram,50,adopt cute furri friend i
+2023,1,20,night,latenight gaming session friends,positive,Twitter,52,latenight game session friend
+2023,1,20,noon,attending virtual conference ai,neutral,Facebook,52,attend virtual confer ai
+2023,1,20,noon,winter blues got low,negative,Instagram,52,winter blue got low
+2023,1,21,morning,sipping coffee enjoying good book,positive,Twitter,52,sip coffe enjoy good book
+2023,1,21,noon,exploring world virtual reality,positive,Facebook,52,explor world virtual realiti
+2023,1,21,noon,productive day ticking too list,positive,Instagram,52,product day tick too list
+2023,1,22,morning,finished challenging workout routine,positive,Twitter,52,finish challeng workout routin
+2023,1,22,noon,celebrating milestone work i,positive,Facebook,50,celebr mileston work i
+2023,1,22,noon,sundae brunch friends,positive,Instagram,52,sunda brunch friend
+2023,1,23,noon,learning new language personal growth,positive,Facebook,52,learn new languag person growth
+2023,1,23,night,quiet evening good book,positive,Instagram,52,quiet even good book
+2023,1,24,noon,reflecting importance mental he,positive,Twitter,52,reflect import mental he
+2023,1,24,noon,new painting progress i,positive,Facebook,51,new paint progress i
+2023,1,24,noon,weekend road trip explore scenic views,positive,Instagram,52,weekend road trip explor scenic view
+2023,1,25,night,enjoying cup tea watching sunset,positive,Twitter,52,enjoy cup tea watch sunset
+2023,1,25,noon,coding new project enthusiasm,positive,Facebook,52,code new project enthusiasm
+2023,1,26,morning,feeling inspired attending workshop,positive,Instagram,52,feel inspir attend workshop
+2023,1,26,noon,winter sports day local park,positive,Twitter,52,winter sport day local park
+2023,1,26,noon,quality tears eyes family weekend,positive,Facebook,52,qualiti tear eye famili weekend
+2023,1,27,night,attending live music concert tonight,positive,Instagram,52,attend live music concert tonight
+2023,1,27,noon,practicing mindfulness meditation,positive,Twitter,52,practic mind medit
+2023,1,27,noon,trying new dessert recipe,positive,Facebook,52,tri new dessert recip
+2023,1,28,morning,excited upcoming gaming tournament,positive,Instagram,52,excit upcom game tournament
+2023,1,28,noon,planning garden makeover spring,positive,Twitter,52,plan garden makeov spring
+2023,1,28,night,celebrating friends birthday tonight i,positive,Facebook,50,celebr friend birthday tonight i
+2023,1,29,noon,feeling accomplished productive day,positive,Instagram,52,feel accomplish product day
+2023,1,29,night,cozy evening good movie,positive,Twitter,51,cozi even good movi
+2023,1,30,noon,exploring local art galleries weekend,positive,Facebook,52,explor local art galleri weekend
+2023,1,30,noon,new book release favorite author,positive,Instagram,52,new book releas favorit author
+2023,1,30,night,attending virtual reality meet,positive,Twitter,52,attend virtual realiti meet
+2023,1,31,morning,reflecting beauty nature,positive,Facebook,52,reflect beauti natur
+2023,1,31,night,cooking special dinner loved ones,positive,Instagram,52,cook special dinner love one
+2023,1,31,noon,feeling optimistic week ahead,positive,Twitter,52,feel optimist week ahead
+2023,2,1,morning,starting new fitness challenge tomorrow i,positive,Facebook,50,start new fit challeng tomorrow i
+2023,2,1,noon,sundae bike ride scenic trails,positive,Instagram,51,sunda bike ride scenic trail
+2023,2,11,morning,cant believe injustice happening society,negative,Twitter,54,cant believ injustic happen societi
+2023,2,11,night,feeling sense fear watching thriller movie,neutral,Instagram,58,feel sens fear watch thriller movi
+2023,2,12,noon,heartbroken hearing news natural disaster,negative,Facebook,62,heartbroken hear news natur disast
+2023,2,12,night,state worlds environment disgusting,negative,Twitter,58,state world environ disgust
+2023,2,13,morning,pure happiness celebrating loved ones achievement,positive,Instagram,56,pure happi celebr love one achiev
+2023,2,13,night,laughter best medicine—enjoying comedy show,positive,Facebook,55,laughter best medicine—enjoy comedi show
+2023,2,14,morning,sharing love positive vibes everyone i,positive,Twitter,56,share love posit vibe everyon i
+2023,2,14,noon,amusing incident brightened day,positive,Instagram,57,amus incid brighten day
+2023,2,14,night,enjoying quiet evening book tea,positive,Facebook,57,enjoy quiet even book tea
+2023,2,15,noon,admiring beauty nature peaceful hike,neutral,Twitter,57,admir beauti natur peac hike
+2023,2,15,noon,sending affectionate vibes followers,positive,Instagram,58,send affection vibe follow
+2023,2,15,night,experiencing awe breathtaking sunset,positive,Facebook,57,experienc awe breathtak sunset
+2023,2,16,morning,disappointed service local restaurant,negative,Twitter,57,disappoint servic local restaur
+2023,2,16,noon,surprise gift friend made day,positive,Instagram,57,surpris gift friend made day
+2023,2,16,night,finding acceptance midst life challenges,neutral,Facebook,57,find accept midst life challeng
+2023,2,17,morning,overflowing adoration adorable pet i,positive,Twitter,56,overflow ador ador pet i
+2023,2,17,morning,anticipating thrilling adventure coming weeks,neutral,Instagram,57,anticip thrill adventur come week
+2023,2,17,noon,bitter experience turned valuable lesson,neutral,Facebook,57,bitter experi turn valuabl lesson
+2023,2,18,morning,finding calmness midst busy day,neutral,Twitter,57,find calm midst busi day
+2023,2,18,noon,confusion clouds mind navigate decisions,neutral,Instagram,58,confus cloud mind navig decis
+2023,2,18,night,excitement building upcoming vacation,positive,Facebook,57,excit build upcom vacat
+2023,2,19,noon,kindness witnessed today restored faith humanity,positive,Twitter,57,kind wit today restor faith human
+2023,2,19,noon,pride achieving personal milestone,neutral,Instagram,56,pride achiev person mileston
+2023,2,19,night,moment shame standing injustice,negative,Facebook,58,moment shame stand injustic
+2023,2,20,morning,fuming anger heated argument,negative,Twitter,55,fume anger heat argument
+2023,2,20,night,fear unknown keeping night,neutral,Instagram,55,fear unknown keep night
+2023,2,21,noon,heartfelt sadness bidding farewell dear friend,negative,Facebook,60,heartfelt sad bid farewel dear friend
+2023,2,21,night,state corruption society utterly disgusting,negative,Twitter,63,state corrupt societi utterli disgust
+2023,2,22,morning,overflowing happiness welcoming new family member,positive,Instagram,56,overflow happi welcom new famili member
+2023,2,22,night,laughter key joy—attending standup comedy show,positive,Facebook,62,laughter key joy—attend standup comedi show
+2023,2,23,morning,sending love followers beautiful day i,positive,Twitter,60,send love follow beauti day i
+2023,2,23,noon,amused antics permits pure amusement,neutral,Instagram,58,amus antic permit pure amus
+2023,2,23,night,enjoying every moment trip—pure enjoyment,positive,Facebook,57,enjoy everi moment trip—pur enjoy
+2023,2,24,noon,admiring dedication volunteers local charity,neutral,Twitter,59,admir dedic volunt local chariti
+2023,2,24,noon,sending affectionate vibes friends family,neutral,Instagram,58,send affection vibe friend famili
+2023,2,24,night,awestruck beauty night sky,positive,Facebook,58,awestruck beauti night sky
+2023,2,25,morning,disappointed lack progress personal project,negative,Twitter,63,disappoint lack progress person project
+2023,2,25,noon,surprise visit old friend brought tears joy,positive,Instagram,59,surpris visit old friend brought tear joy
+2023,2,25,night,embracing acceptance life ups downs,neutral,Facebook,57,embrac accept life up down
+2023,2,26,morning,overflowing adoration cute rescue puppy i,positive,Twitter,56,overflow ador cute rescu puppi i
+2023,2,26,morning,anticipating release muchawaited movie,neutral,Instagram,57,anticip releas muchawait movi
+2023,2,26,noon,bitter experience customer service department,negative,Facebook,57,bitter experi custom servic depart
+2023,2,27,morning,finding calmness amidst chaos daily life,neutral,Twitter,57,find calm amidst chao daili life
+2023,2,27,noon,confusion reigns try make sense recent events,neutral,Instagram,58,confus reign tri make sens recent event
+2023,2,27,night,excitement building surprise birthday party,positive,Facebook,57,excit build surpris birthday parti
+2023,2,28,noon,witnessed act kindness made day,positive,Twitter,57,wit act kind made day
+2023,2,28,noon,pride completing challenging fitness challenge,neutral,Instagram,57,pride complet challeng fit challeng
+2023,2,28,night,moment shame speaking injustice,negative,Facebook,57,moment shame speak injustic
+2023,3,1,morning,reflecting beauty diversity world,neutral,Twitter,57,reflect beauti divers world
+2023,3,1,noon,excitement quiet evening good book,positive,Instagram,57,excit quiet even good book
+2023,3,1,noon,feeling bitter unfairness workplace,negative,Twitter,57,feel bitter unfair workplac
+2023,3,2,night,calmness prevails practice mindfulness,neutral,Facebook,57,calm prevail practic mind
+2023,3,2,noon,confusion surrounds navigate life choices,neutral,Instagram,62,confus surround navig life choic
+2023,3,2,noon,excitement weekend road trip explore new places,positive,Twitter,59,excit weekend road trip explor new place
+2023,3,3,noon,kindness witnessed today restores faith humanity,positive,Facebook,58,kind wit today restor faith human
+2023,3,3,noon,pride accomplishing personal professional goals,positive,Instagram,58,pride accomplish person profession goal
+2023,3,3,noon,shame true values difficult situation,negative,Twitter,64,shame true valu difficult situat
+2021,8,10,night,victory team brought euphoria city,positive,Instagram,55,victori team brought euphoria citi
+2012,11,25,morning,overflowing gratitude life blessings,neutral,Instagram,55,overflow gratitud life bless
+2014,9,14,morning,empowered make difference community,neutral,Twitter,56,empow make differ commun
+2015,7,18,noon,compassion action supporting local charity event,positive,Instagram,57,compass action support local chariti event
+2017,10,30,noon,arousal excitement await special announcement,positive,Twitter,57,arous excit await special announc
+2018,6,15,noon,enthusiastically diving new project,neutral,Instagram,56,enthusiast dive new project
+2019,3,28,night,feeling sense fulfillment reaching milestone,positive,Facebook,59,feel sens fulfil reach mileston
+2019,11,11,noon,reverence beauty historic landmark,neutral,Twitter,56,rever beauti histor landmark
+2020,4,2,morning,elation surprise reunion old friends,positive,Instagram,55,elat surpris reunion old friend
+2021,6,19,noon,euphoria live music concert stars,positive,Facebook,56,euphoria live music concert star
+2010,8,15,morning,contentment simplicity quiet sundae,neutral,Twitter,56,content simplic quiet sunda
+2011,9,22,night,serenity found pages favorite book,neutral,Instagram,56,seren found page favorit book
+2012,3,10,morning,neutral support received tough times,positive,Facebook,54,neutral support receiv tough time
+2013,12,5,noon,hopeful possibilities new journey,positive,Twitter,56,hope possibl new journey
+2014,7,20,noon,empowerment learning personal growth,neutral,Instagram,56,empower learn person growth
+2015,12,22,noon,compassion towards need holidays,neutral,Facebook,56,compass toward need holiday
+2016,2,10,night,tenderness warmth cozy winter evening,positive,Twitter,56,tender warmth cozi winter even
+2017,4,30,noon,arousal excitement upcoming adventure,positive,Instagram,56,arous excit upcom adventur
+2018,9,15,noon,enthusiasm creative project making,positive,Facebook,56,enthusiasm creativ project make
+2019,6,28,night,fulfillment completing challenging workout routine,positive,Twitter,57,fulfil complet challeng workout routin
+2020,11,11,noon,reverence artistry displayed museum,neutral,Instagram,56,rever artistri display museum
+2021,3,2,morning,elation achieving personal goal,positive,Facebook,56,elat achiev person goal
+2012,2,18,noon,elation discovering hidden gem city,positive,Twitter,54,elat discov hidden gem citi
+2018,11,5,night,euphoria surprise birthday celebration,positive,Instagram,54,euphoria surpris birthday celebr
+2015,9,12,noon,contentment simplicity homecooked meal,neutral,Facebook,54,content simplic homecook meal
+2016,7,30,night,serenity found melody peaceful piano,neutral,Twitter,54,seren found melodi peac piano
+2013,4,20,morning,neutral supportive community around,neutral,Instagram,52,neutral support commun around
+2017,12,8,night,hopeful prospects new business venture,positive,Facebook,55,hope prospect new busi ventur
+2014,6,3,morning,empowerment mentoring guiding others,neutral,Twitter,54,empower mentor guid other
+2019,1,15,noon,compassion shown acts kindness community,positive,Instagram,60,compass shown act kind commun
+2016,12,25,night,tenderness heartfelt message loved one,positive,Facebook,54,tender heartfelt messag love one
+2018,3,10,morning,arousal excitement muchawaited trip,positive,Twitter,54,arous excit muchawait trip
+2020,9,17,noon,enthusiasm new artistic project works,positive,Instagram,54,enthusiasm new artist project work
+2011,8,28,night,feeling sense fulfillment helping others,neutral,Facebook,54,feel sens fulfil help other
+2017,11,1,noon,reverence historical significance landmark,neutral,Twitter,57,rever histor signific landmark
+2019,6,15,morning,elation achieving fitness milestone,positive,Instagram,54,elat achiev fit mileston
+2022,4,3,noon,euphoria successful product launch,positive,Facebook,54,euphoria success product launch
+2010,11,12,night,contentment embrace loved one,neutral,Twitter,54,content embrac love one
+2011,7,22,night,serenity found beauty sunset sea,neutral,Instagram,55,seren found beauti sunset sea
+2012,3,30,noon,neutral small joys day brings,neutral,Facebook,52,neutral small joy day bring
+2013,10,5,noon,hopeful potential personal growth,positive,Twitter,55,hope potenti person growth
+2014,7,10,noon,empowerment learning new skill,neutral,Instagram,54,empower learn new skill
+2015,12,18,noon,compassion volunteering local charity,neutral,Facebook,55,compass volunt local chariti
+2016,2,10,night,tenderness quiet moment shared pet,positive,Twitter,54,tender quiet moment share pet
+2017,9,25,noon,arousal excitement upcoming festival,positive,Instagram,55,arous excit upcom festiv
+2018,4,15,noon,enthusiasm did home improvement project,neutral,Facebook,54,enthusiasm did home improv project
+2019,11,28,night,fulfillment completing challenging puzzle,positive,Twitter,54,fulfil complet challeng puzzl
+2020,5,11,noon,reverence wonders nature hiking trail,neutral,Instagram,55,rever wonder natur hike trail
+2021,2,5,morning,elation surprise reunion childhood friend,positive,Facebook,58,elat surpris reunion childhood friend
+2021,3,10,morning,suffering despair another setback,negative,Twitter,52,suffer despair anoth setback
+2019,11,18,night,loneliness creeps night grows colder,negative,Facebook,52,loneli creep night grow colder
+2020,8,12,noon,jealousy consumes witness others success,negative,Twitter,52,jealousi consum wit other success
+2018,5,22,noon,resentment building past betrayals,negative,Instagram,52,resent build past betray
+2017,1,30,noon,frustration mounts obstacles block path,negative,Facebook,52,frustrat mount obstacl block path
+2021,12,3,night,intimidation unknown future ahead,negative,Facebook,52,intimid unknown futur ahead
+2020,6,20,noon,helplessness sinks challenges pile,negative,Twitter,52,helpless sink challeng pile
+2018,11,7,noon,envy eats away see others prosperity,negative,Instagram,52,envi eat away see other prosper
+2017,8,25,noon,regret missed opportunities haunts thoughts,negative,Facebook,53,regret miss opportun haunt thought
+2019,2,11,morning,disgust sight injustice cruelty,negative,Twitter,52,disgust sight injustic cruelti
+2018,12,15,noon,regret decisions led painful present,negative,Twitter,52,regret decis led pain present
+2016,7,1,morning,disgust corruption stains society,negative,Instagram,52,disgust corrupt stain societi
+2022,4,3,morning,awestruck breathtaking sunrise mountains,positive,Instagram,64,awestruck breathtak sunris mountain
+2023,10,12,morning,navigating challenges determination,neutral,Twitter,63,navig challeng determin
+2019,6,28,night,nostalgia hits flipping old photo album,neutral,Facebook,62,nostalgia hit flip old photo album
+2020,9,15,noon,thrilled witness grandeur cultural festival,positive,Instagram,63,thrill wit grandeur cultur festiv
+2017,11,8,night,calmness found rhythm raindrops windowpane,neutral,Twitter,63,calm found rhythm raindrop windowpan
+2021,5,20,noon,overwhelmed support received personal challenge,negative,Facebook,64,overwhelm support receiv person challeng
+2023,1,10,noon,excitement builds countdown longawaited vacation begins,positive,Instagram,70,excit build countdown longawait vacat begin
+2020,3,15,night,bittersweet emotions arise bidding farewell dear friend,negative,Instagram,68,bittersweet emot aris bid farewel dear friend
+2016,8,22,noon,curiosity sparked exploring mysterious ancient ruin,neutral,Facebook,63,curios spark explor mysteri ancient ruin
+2019,8,20,noon,admiration intricate details handcrafted masterpiece,neutral,Instagram,67,admir intric detail handcraft masterpiec
+2021,12,8,night,overjoyed warmth cozy fireplace winter evening,positive,Twitter,67,overjoy warmth cozi fireplac winter even
+2020,6,10,night,inspiration strikes observing colors vibrant sunset,neutral,Instagram,67,inspir strike observ color vibrant sunset
+2022,2,28,morning,motivated achieve fitness goals invigorating workout,neutral,Facebook,67,motiv achiev fit goal invigor workout
+2017,4,15,morning,gratitude simple joys found cup morning coffee,neutral,Twitter,67,gratitud simpl joy found cup morn coffe
+2018,9,5,noon,feeling empowered conquering challenging hiking trail,positive,Instagram,67,feel empow conquer challeng hike trail
+2022,10,22,noon,amused antics playful kittens playtime,positive,Facebook,67,amus antic play kitten playtim
+2016,7,2,night,contemplating life mysteries starry night sky,neutral,Twitter,67,contempl life mysteri starri night sky
+2020,11,18,noon,joyful reunion longest friends years separation,positive,Instagram,67,joy reunion longest friend year separ
+2023,3,5,noon,excitement builds preparing surprise celebration,positive,Facebook,66,excit build prepar surpris celebr
+2015,12,1,noon,satisfaction derived successfully completing did project,positive,Twitter,66,satisfact deriv success complet did project
+2021,9,10,morning,feeling blessed supportive community times need,positive,Instagram,66,feel bless support commun time need
+2018,5,12,noon,captivated serenity tranquil garden full bloom,neutral,Facebook,67,captiv seren tranquil garden full bloom
+2022,7,25,morning,anticipation upcoming adventure exotic destination,neutral,Twitter,67,anticip upcom adventur exot destin
+2019,3,8,night,reflecting personal growth achieved life experiences,neutral,Instagram,66,reflect person growth achiev life experi
+2017,1,28,night,nostalgic memories flood revisiting childhood favorites,neutral,Facebook,66,nostalg memori flood revisit childhood favorit
+2016,11,14,noon,appreciation vibrant culture experienced travel,positive,Twitter,66,appreci vibrant cultur experienc travel
+2020,4,2,noon,confidence soars overcoming public speaking anxiety,positive,Instagram,65,confid soar overcom public speak anxieti
+2023,1,15,night,contentment midst family gathering filled laughter,neutral,Facebook,69,content midst famili gather fill laughter
+2018,8,7,noon,enthusiasm learning new skills expanding knowledge,positive,Twitter,65,enthusiasm learn new skill expand knowledg
+2019,10,18,noon,surprise delight discovering hidden gem city,positive,Instagram,65,surpris delight discov hidden gem citi
+2022,6,30,morning,sense accomplishment completing challenging workout,positive,Facebook,65,sens accomplish complet challeng workout
+2017,6,12,night,wonderment beauty double rainbow rain,positive,Twitter,65,wonder beauti doubl rainbow rain
+2021,7,5,morning,optimism bright future amidst challenging times,positive,Instagram,65,optim bright futur amidst challeng time
+2016,4,15,noon,pride achieving personal milestone career progression,positive,Facebook,65,pride achiev person mileston career progress
+2020,2,10,noon,happiness blooms flowers garden sunny day,positive,Twitter,65,happi bloom flower garden sunni day
+2018,9,22,noon,elation discovering rare book quaint bookstore,positive,Instagram,65,elat discov rare book quaint bookstor
+2015,11,8,morning,curiosity piqued mysteries ancient archaeological site,neutral,Facebook,68,curios piqu mysteri ancient archaeolog site
+2022,8,10,night,mesmerized cosmic dance fireflies moonlit night,positive,Instagram,67,mesmer cosmic danc firefli moonlit night
+2019,4,5,noon,intrigued symphony colors abstract art exhibition,neutral,Twitter,67,intrigu symphoni color abstract art exhibit
+2020,12,15,noon,giggles joy echo air children playmate,positive,Facebook,67,giggl joy echo air children playmat
+2017,10,20,morning,enveloped serenity practicing mindfulness lake,neutral,Instagram,67,envelop seren practic mind lake
+2021,2,28,noon,chasing dreams kite soaring high vast open sky,neutral,Twitter,67,chase dream kite soar high vast open sky
+2018,6,12,night,spellbound elegance ballroom dance crystal chandeliers,neutral,Facebook,74,spellbound eleg ballroom danc crystal chandeli
+2016,3,8,noon,whimsical delight world fairy tales magical creatures,positive,Instagram,68,whimsic delight world fairi tale magic creatur
+2023,4,18,noon,pensive contemplation amid ancient ruins forgotten civilization,neutral,Twitter,74,pensiv contempl amid ancient ruin forgotten civil
+2020,7,25,noon,embracing thrill speed rollercoaster exhilarating twists,positive,Facebook,72,embrac thrill speed rollercoast exhilar twist
+2019,11,30,night,harmony resonates musicians play melody unity togetherness,neutral,Instagram,72,harmoni reson musician play melodi uniti togeth
+2015,9,1,noon,burst creativity quiet solitude artists studio,positive,Twitter,68,burst creativ quiet solitud artist studio
+2022,5,5,morning,radiant joy akin blooming flowers unkissed spring morning,positive,Facebook,69,radiant joy akin bloom flower unkiss spring morn
+2018,7,8,night,sense wonder vastness cosmos stargazing night,neutral,Instagram,71,sens wonder vast cosmo stargaz night
+2021,9,20,noon,rejuvenated my breeze sound waves seaside,positive,Twitter,71,rejuven my breez sound wave seasid
+2016,11,15,noon,whispers inspiration rustling leaves serene forest,neutral,Facebook,69,whisper inspir rustl leav seren forest
+2020,1,12,night,savoring warmth cup cocoa chilly winter evening,neutral,Instagram,68,savor warmth cup cocoa chilli winter even
+2017,12,28,night,heartfelt gratitude laughter shared family reunion,neutral,Facebook,69,heartfelt gratitud laughter share famili reunion
+2022,6,8,noon,euphoria floods final puzzle piece clicks place,positive,Instagram,70,euphoria flood final puzzl piec click place
+2018,8,18,noon,aweinspired grandeur ancient cathedrals intricate architecture,positive,Facebook,79,aweinspir grandeur ancient cathedr intric architectur
+2022,8,10,night,captivated ethereal beauty field filled fireflies,positive,Instagram,68,captiv ether beauti field fill firefli
+2019,4,5,noon,immersed enchanting melodies street musicians violin,positive,Twitter,67,immers enchant melodi street musician violin
+2020,12,15,noon,joyful laughter resonates lively summer carnival,positive,Facebook,68,joy laughter reson live summer carniv
+2017,10,20,morning,exploring universe within mindful meditation session,neutral,Instagram,67,explor univers within mind medit session
+2021,2,28,noon,soaring free spirit winds coastal cliff,positive,Twitter,67,soar free spirit wind coastal cliff
+2018,6,12,night,dazzled elegance masquerade balls dazzling costumes,positive,Facebook,66,dazzl eleg masquerad ball dazzl costum
+2016,3,8,noon,whimsical delight world whimsical fairy tales,positive,Instagram,67,whimsic delight world whimsic fairi tale
+2023,4,18,noon,reflective contemplation amid ruins forgotten era,neutral,Twitter,67,reflect contempl amid ruin forgotten era
+2020,7,25,noon,riding adrenaline rush rollercoaster wild twists,positive,Facebook,66,ride adrenalin rush rollercoast wild twist
+2019,11,30,night,harmony resonates musicians play symphony unity,neutral,Instagram,67,harmoni reson musician play symphoni uniti
+2015,9,1,noon,burst artistic creativity quietude artists studio,neutral,Twitter,70,burst artist creativ quietud artist studio
+2022,5,5,morning,radiant joy akin blossoming flowers sunlit spring morning,positive,Facebook,67,radiant joy akin blossom flower sunlit spring morn
+2018,7,8,night,aweinspired vastness cosmos stargazing night,neutral,Instagram,68,aweinspir vast cosmo stargaz night
+2022,6,8,noon,euphoria floods final puzzle piece fits perfectly,positive,Instagram,67,euphoria flood final puzzl piec fit perfectli
+2018,8,18,noon,awestruck grandeur ancient cathedrals intricate architecture,positive,Facebook,77,awestruck grandeur ancient cathedr intric architectur
+2015,11,8,morning,curiosity awakened mysteries ancient archaeological site,neutral,Instagram,71,curios awaken mysteri ancient archaeolog site
+2020,12,2,noon,giddy excitement first snowflakes dance sky,positive,Twitter,66,giddi excit first snowflak danc sky
+2017,6,10,noon,contentment envelops aroma freshly baked bread fills air,neutral,Instagram,72,content envelop aroma freshli bake bread fill air
+2021,4,15,noon,inspired resilience lone tree standing tall storm,neutral,Facebook,68,inspir resili lone tree stand tall storm
+2016,12,5,night,drenched nostalgia flipping old family photo album,neutral,Instagram,72,drench nostalgia flip old famili photo album
+2018,2,10,night,spark inspiration ignites shooting star night sky,positive,Facebook,68,spark inspir ignit shoot star night sky
+2023,2,15,morning,imbued gratitude simple pleasure warm cup tea,neutral,Twitter,68,imbu gratitud simpl pleasur warm cup tea
+2015,8,22,noon,marveling kaleidoscope colors vibrant street market,neutral,Instagram,68,marvel kaleidoscop color vibrant street market
+2020,11,20,night,awash serenity sun sets tranquil lakeside retreat,neutral,Facebook,70,awash seren sun set tranquil lakesid retreat
+2019,8,5,night,drowning sorrow memories lost love resurface,negative,Instagram,66,drown sorrow memori lost love resurfac
+2021,2,12,noon,numbness sets weight loneliness grows heavier,negative,Twitter,66,numb set weight loneli grow heavier
+2023,5,20,night,successfully avoided eye contact crush hallway mission accomplished teencrush stehmode,positive,Twitter,109,success avoid eye contact crush hallway mission accomplish teencrush stehmod
+2023,5,21,night,ran snacks movie marathon crisis level emergency movienightstruggles teenproblems,neutral,Instagram,103,ran snack movi marathon crisi level emerg movienightstruggl teenproblem
+2023,5,22,noon,spent hour choosing perfect filter selfish struggle instagram aesthetic real selfiequeen teenvibes,positive,Facebook,131,spent hour choos perfect filter selfish struggl instagram aesthet real selfiequeen teenvib
+2023,5,23,noon,lost headphones vanish thin air headphonemystery teenlife,negative,Twitter,88,lost headphon vanish thin air headphonemysteri teenlif
+2023,5,24,noon,decided study exams ended making memos studying instead procrastination level expert procrastinationnation teenconfessions,positive,Instagram,148,decid studi exam end make memo studi instead procrastin level expert procrastinationn teenconfess
+2023,5,26,noon,survived group project without drama miracles happen groupprojectsuccess teenachievements,positive,Twitter,103,surviv group project without drama miracl happen groupprojectsuccess teenachiev
+2023,5,31,noon,spent day bingewatching new series productivity level zero payday tvseriesmarathon,positive,Facebook,96,spent day bingewatch new seri product level zero payday tvseriesmarathon
+2023,6,1,night,caught latest fashion trends planning shopping spree fashionista trendyteen,positive,Twitter,99,caught latest fashion trend plan shop spree fashionista trendyteen
+2023,6,2,noon,decided learn new instrument day one still trying figure hold musicnovice learningjourney,negative,Instagram,117,decid learn new instrument day one still tri figur hold musicnovic learningjourney
+2023,6,3,night,spent hours creating perfect playlet every mood music therapy playlistmaker teenmusiclover,positive,Facebook,110,spent hour creat perfect playlet everi mood music therapi playlistmak teenmusiclov
+2023,6,4,night,successfully cooked gourmet meal family chef skills unlocked chefmode trenches,positive,Twitter,93,success cook gourmet meal famili chef skill unlock chefmod trench
+2023,6,5,morning,spontaneously booked weekend getaway adventure awaits traveling weekendescape,positive,Instagram,84,spontan book weekend getaway adventur await travel weekendescap
+2023,6,6,night,attended concert danced night away music heartbeat life concertizes danceallnight,positive,Facebook,107,attend concert danc night away music heartbeat life concert danceallnight
+2023,6,7,noon,rediscovered childhood cartoons nostalgiafilled marathon cartoonnostalgia teenmemories,positive,Twitter,101,rediscov childhood cartoon nostalgiafil marathon cartoonnostalgia teenmemori
+2023,6,8,noon,embarked did home decor project let us hope turns better last tears eyes misadventure teenhomedecor,positive,Instagram,114,embark did home decor project let us hope turn better last tear eye misadventur teenhomedecor
+2023,6,10,noon,started blog random thoughts musings blogging new diary bloggerlife teenblogger,neutral,Twitter,103,start blog random thought muse blog new diari bloggerlif teenblogg
+2023,6,11,noon,relishing peaceful afternoon classic novel quiet moments best moments booklover peacefulafternoon,neutral,Instagram,119,relish peac afternoon classic novel quiet moment best moment booklov peacefulafternoon
+2023,6,13,noon,exploring world digital art never late discover new passions digitalartistry latebloomer,neutral,Facebook,112,explor world digit art never late discov new passion digitalartistri latebloom
+2023,6,14,night,savoring flavors homecooked meal simple joys heart happiness homecoming simpletons,neutral,Instagram,109,savor flavor homecook meal simpl joy heart happi homecom simpleton
+2023,6,15,noon,embarking journey learning new language mind stays young every new word languagelearning nevertoolate,neutral,Twitter,125,embark journey learn new languag mind stay young everi new word languagelearn nevertool
+2023,6,17,noon,capturing beauty nature photography every snapshot treasure naturephotography seniorphotographer,positive,Instagram,121,captur beauti natur photographi everi snapshot treasur naturephotographi seniorphotograph
+2023,7,11,night,hosted photography exhibition featuring snapshots life welllived every photo story tell photographyexhibition seniorphotographer,neutral,Twitter,150,host photographi exhibit featur snapshot life wellliv everi photo stori tell photographyexhibit seniorphotograph
+2023,8,2,noon,exploring world coding debugging adventure codingjourney highschoolcoder,positive,Twitter,101,explor world code debug adventur codingjourney highschoolcod
+2023,8,6,noon,convinced teacher class outdoors learning equations side fresh air,positive,Facebook,91,convinc teacher class outdoor learn equat side fresh air
+2023,8,8,noon,trying master perfect kickflip skateboard skating weekend pro,positive,Twitter,93,tri master perfect kickflip skateboard skate weekend pro
+2023,8,9,night,bonding friends latest pop sensation fingerling finest,positive,Facebook,80,bond friend latest pop sensat fingerl finest
+2023,8,10,noon,spent hours perfecting chemistry experiment mixing potions wizard,positive,Instagram,77,spent hour perfect chemistri experi mix potion wizard
+2023,8,11,night,successfully organized surprise birthday party friend party planning expert mode achieved,positive,Twitter,101,success organ surpris birthday parti friend parti plan expert mode achiev
+2023,8,13,night,got hands latest fantasy novel diving realms magic adventure,positive,Instagram,85,got hand latest fantasi novel dive realm magic adventur
+2023,8,14,noon,mastering art perfect doodle boring classes doodles,positive,Twitter,76,master art perfect doodl bore class doodl
+2023,8,15,night,attempting break school record longest handstand wish luck,positive,Facebook,79,attempt break school record longest handstand wish luck
+2023,8,16,noon,sneaking snacks class pro art snacksmuggling sacred skill,neutral,Instagram,85,sneak snack class pro art snacksmuggl sacr skill
+2023,8,17,night,hosting sleepover friends weekend preparing night laughter memories,positive,Twitter,95,host sleepov friend weekend prepar night laughter memori
+2023,8,19,night,accidentally liked crush old photo stalking profile awkward level maximum,negative,Instagram,94,accident like crush old photo stalk profil awkward level maximum
+2023,8,20,noon,tried impress crush smooth conversation ended spilling drink smooth level nonexistent,negative,Twitter,109,tri impress crush smooth convers end spill drink smooth level nonexist
+2023,8,21,noon,mastered art creating paper airplanes lecture paper planes soaring new heights,positive,Instagram,99,master art creat paper airplan lectur paper plane soar new height
+2023,8,22,noon,trying set new trend juggling textbooks classes academic juggling unique skill,positive,Facebook,100,tri set new trend juggl textbook class academ juggl uniqu skill
+2023,8,23,noon,hiding snack stash backpack emergency cravings snack ninja mode activated,neutral,Twitter,89,hide snack stash backpack emerg crave snack ninja mode activ
+2023,8,24,night,planning surprise scavenger hunt friends anticipating thrill excitement,positive,Instagram,88,plan surpris scaveng hunt friend anticip thrill excit
+2023,8,25,noon,danced rain celebrate end exams rain dance unexpectedly refreshing,positive,Facebook,87,danc rain celebr end exam rain danc unexpectedli refresh
+2023,8,26,noon,accidentally sent text meant friend class group chat testing fail oops moment,negative,Twitter,96,accident sent text meant friend class group chat test fail oop moment
+2023,8,27,night,tried magic trick impress classmates magic fail rabbit go,negative,Instagram,81,tri magic trick impress classmat magic fail rabbit go
+2023,8,28,noon,perfecting art creating origami dull lecture origami mastery,positive,Twitter,83,perfect art creat origami dull lectur origami masteri
+2023,8,29,noon,attempting set new record consecutive hack sack kicks hack sack skills unleashed,positive,Instagram,104,attempt set new record consecut hack sack kick hack sack skill unleash
+2023,8,30,noon,creating secret handshake friends friendship level expert,positive,Facebook,68,creat secret handshak friend friendship level expert
+2023,8,31,night,embarking mission find best burger joint town burger connoisseur reporting duty,positive,Twitter,102,embark mission find best burger joint town burger connoisseur report duti
+2023,9,1,noon,practicing standup comedy routine upcoming talent show comedy gig making,positive,Instagram,94,practic standup comedi routin upcom talent show comedi gig make
+2023,9,2,night,accidentally sent love letter wrong person love note fail maximum embarrassment,negative,Facebook,92,accident sent love letter wrong person love note fail maximum embarrass
+2023,9,3,night,attempting impress teacher elaborate science experiment science geek mode activated,positive,Twitter,102,attempt impress teacher elabor scienc experi scienc geek mode activ
+2023,9,4,noon,crafting intricate friendship bracelets whole squad friendship level expert weaver,positive,Instagram,94,craft intric friendship bracelet whole squad friendship level expert weaver
+2023,9,5,noon,attempting beat record consecutive cartwheels cartwheel challenge underway,positive,Twitter,98,attempt beat record consecut cartwheel cartwheel challeng underway
+2023,9,6,noon,organizing movie marathon friends popcorn cinematic adventures await,positive,Facebook,82,organ movi marathon friend popcorn cinemat adventur await
+2023,9,7,night,experimenting new hair color bold change bold semester,positive,Instagram,72,experi new hair color bold chang bold semest
+2023,9,8,noon,building tears eyes capsule capture memories future timetraveling emotions,positive,Facebook,85,build tear eye capsul captur memori futur timetravel emot
+2023,9,9,noon,accidentally walked wrong classroom first day classroom mixup awkward start,negative,Twitter,96,accident walk wrong classroom first day classroom mixup awkward start
+2023,9,10,night,trying new smoothie recipe hey start week smoothie enthusiast level,positive,Instagram,97,tri new smoothi recip hey start week smoothi enthusiast level
+2023,9,11,noon,reflecting challenges school year bit overwhelmed assignments,negative,Twitter,93,reflect challeng school year bit overwhelm assign
+2023,9,12,noon,encountered meanspirited comments online dealing online hate never easy,negative,Instagram,88,encount meanspirit comment onlin deal onlin hate never easi
+2023,9,13,noon,bad day school everything seems going wrong,negative,Facebook,61,bad day school everyth seem go wrong
+2023,9,14,night,feeling making sports team disappointment lingers,negative,Twitter,71,feel make sport team disappoint linger
+2023,9,15,noon,witnessed heated argument cafeteria unpleasant atmosphere lunch,negative,Instagram,78,wit heat argument cafeteria unpleas atmospher lunch
+2023,9,16,noon,received notsogreat grade major project academic frustration setting,negative,Facebook,83,receiv notsogreat grade major project academ frustrat set
+2023,9,17,night,dealing personal setback sometimes life throws unexpected challenges,negative,Twitter,78,deal person setback sometim life throw unexpect challeng
+2023,9,18,night,feeling lonely sturdy night sometimes solitude hits harder expected,negative,Instagram,82,feel lone sturdi night sometim solitud hit harder expect
+2023,9,19,noon,experiencing cyberbullying hateful messages online disheartening,negative,Facebook,71,experienc cyberbulli hate messag onlin dishearten
+2023,9,20,noon,caught torrential rainstorm without umbrella today weather bad luck,negative,Twitter,88,caught torrenti rainstorm without umbrella today weather bad luck
+2023,9,21,noon,missing important event due unforeseen circumstances day filled sadness,negative,Instagram,87,miss import event due unforeseen circumst day fill sad
+2023,9,22,night,dealing unfounded rumors circulating personal life rumors hurtful,negative,Facebook,86,deal unfound rumor circul person life rumor hurt
+2023,9,23,noon,got flat tire way important meeting talk series bad events,negative,Twitter,87,got flat tire way import meet talk seri bad event
+2023,9,24,noon,feeling sense emptiness close friend moves away farewells always sad,negative,Instagram,88,feel sens empti close friend move away farewel alway sad
+2023,9,25,night,facing rejection dream college disheartened determined explore paths,negative,Facebook,91,face reject dream colleg dishearten determin explor path
+2023,9,26,noon,encountering online toxicity gaming session hateful comments ruin fun,negative,Twitter,89,encount onlin toxic game session hate comment ruin fun
+2023,9,27,noon,bad hair day unselfconscious bad hair days affect confidence,negative,Instagram,87,bad hair day unselfconsci bad hair day affect confid
+2023,9,28,night,feeling sense despair major project failure hard work didn't pay tears eyes,negative,Facebook,94,feel sens despair major project failur hard work didn't pay tear eye
+2023,9,29,noon,experiencing hate comments expressing personal opinions online negativity prevails,negative,Twitter,89,experienc hate comment express person opinion onlin neg prevail
+2023,9,30,night,string bad luck constant technology malfunctions teach troubles galore,negative,Instagram,89,string bad luck constant technolog malfunct teach troubl galor
+2023,10,1,noon,missing longanticipated event due unexpected circumstances day filled sadness,negative,Facebook,100,miss longanticip event due unexpect circumst day fill sad
+2023,10,2,noon,trying new study technique upcoming exams exploring different learning strategies,neutral,Instagram,94,tri new studi techniqu upcom exam explor differ learn strategi
+2023,10,3,noon,organizing community cleanup event cleaner neighborhood promoting environmental awareness,neutral,Twitter,100,organ commun cleanup event cleaner neighborhood promot environment awar
+2023,10,4,night,sharing favorite book recommendations classmates building in book club,neutral,Facebook,82,share favorit book recommend classmat build in book club
+2023,10,5,noon,experimenting new recipe school bake sale baking adventures kitchen,neutral,Instagram,90,experi new recip school bake sale bake adventur kitchen
+2023,10,6,noon,collaborating school project peers teamwork makes dream work,neutral,Twitter,77,collabor school project peer teamwork make dream work
+2023,10,7,night,attending school club meeting explore new interests dabbling extracurricular activities,neutral,Instagram,98,attend school club meet explor new interest dabbl extracurricular activ
+2023,10,8,noon,exploring new wartime job opportunity gaining work experience career development progress,neutral,Facebook,103,explor new wartim job opportun gain work experi career develop progress
+2023,10,9,night,attending school assembly stay informed upcoming events announcements staying connected school activities,neutral,Twitter,128,attend school assembl stay inform upcom event announc stay connect school activ
+2023,10,10,noon,exploring new hobby photography free tears eyes capturing moments lens,neutral,Instagram,89,explor new hobbi photographi free tear eye captur moment len
+2023,10,11,noon,participating science fair showcase unique experiment sharing knowledge peers,neutral,Facebook,95,particip scienc fair showcas uniqu experi share knowledg peer
+2023,10,12,night,attending workshop tears eyes management enhance organizational skills striving efficiency,neutral,Twitter,99,attend workshop tear eye manag enhanc organiz skill strive effici
+2023,10,13,noon,volunteering local charity event give back community contributing social causes,neutral,Instagram,100,volunt local chariti event give back commun contribut social caus
+2023,10,14,noon,collaborating group project promote teamwork shared responsibilities group effort action,neutral,Facebook,106,collabor group project promot teamwork share respons group effort action
+2023,10,15,night,participating debate club enhance critical thinking communication skills intellectual engagement progress,neutral,Twitter,123,particip debat club enhanc critic think commun skill intellectu engag progress
+2023,10,16,noon,celebrating friends birthday surprise party joyful moments laughter around,positive,Instagram,95,celebr friend birthday surpris parti joy moment laughter around
+2023,10,17,noon,successfully completing challenging coding project excitement overcoming coding hurdles,positive,Twitter,96,success complet challeng code project excit overcom code hurdl
+2023,10,18,noon,attending school talent show support classmates applauding diverse talents display,positive,Facebook,97,attend school talent show support classmat applaud divers talent display
+2023,10,20,noon,winning friendly sports competition rival schools victory celebrations full swing,positive,Twitter,97,win friendli sport competit rival school victori celebr full swing
+2023,10,21,noon,receiving heartfelt letter pen pal another country connecting across globe,positive,Facebook,93,receiv heartfelt letter pen pal anoth countri connect across globe
+2023,10,22,night,creating beautiful mural fellow art enthusiasts power collaboration creativity,positive,Instagram,99,creat beauti mural fellow art enthusiast power collabor creativ
+2015,11,10,noon,participating schoolkids art exhibition witnessing creativity spreading positive vibes,positive,Instagram,99,particip schoolkid art exhibit wit creativ spread posit vibe
+2016,9,14,noon,achieving personal best track field competition thrill victory selfimprovement,positive,Twitter,104,achiev person best track field competit thrill victori selfimprov
+2017,8,18,night,collaborating science project received recognition regional fair science triumphs smiles,positive,Facebook,110,collabor scienc project receiv recognit region fair scienc triumph smile
+2019,4,5,noon,successfully fundraising school charity initiative joy giving back community,positive,Twitter,99,success fundrais school chariti initi joy give back commun
